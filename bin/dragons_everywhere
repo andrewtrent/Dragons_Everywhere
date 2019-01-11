@@ -1,0 +1,3 @@
+require_relative "../lib/dragons_everywhere.rb"
+
+DragonsEverywhere::CLI.go

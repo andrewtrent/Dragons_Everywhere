@@ -1,0 +1,9 @@
+A ruby gem that scrapes data from Wikipedia on dragons and dragon-related phenomena, and puts this data, like, everywhere.
+
+So what do I really mean by putting data, like, everywhere?
+
+For one, I mean that you can access each piece of information from its own method and inject desired, or random, dragon-related facts, into any web page or program.
+
+For example, this information could be inserted into an error message so a user has someone to blame (if the scapegoated dragon is specific and arbitrary then the story is more credible and the experience of troubleshooting less repetitive), or the gem could be used to populate a tumbler of interesting animal facts.
+
+Beyond this, I am building an entertaining and educational CLI application, which should fill the user's imagination--and their screen. 
